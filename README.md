@@ -2,6 +2,6 @@ Some data sets to play with in SQLite. See the [data](./data/) directory for dat
 
 Specific data sets include:
 
-- [School districts across the USA](https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.2010.html) (specifically the "School Districts - Unified" data set) - see [examples using this data set](https://nyu-database-design.github.io/course-materials/slides/sqlite-intro/#25)
+- [School districts across the USA](https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.2010.html) (specifically the "[School Districts - Unified](https://www2.census.gov/geo/docs/maps-data/data/gazetteer/Gaz_unsd_national.zip)" data set) - see [examples using this data set](https://nyu-database-design.github.io/course-materials/slides/sqlite-intro/#25)
 - [New York City government job openings](https://data.cityofnewyork.us/City-Government/NYC-Jobs/kpav-sd4t) - see [examples using this data set](https://nyu-database-design.github.io/course-materials/slides/sqlite-joins/#5)
 - [The descendents of Genghis Khan](https://knowledge.kitchen/Genghis_Khan%27s_family_tree) - see [examples using this data set](https://knowledge.kitchen/Left,_Right,_and_Reflexive_Joins)
