@@ -1,4 +1,4 @@
-Some data sets to play with in SQLite. See the [data] directory for data rouce files as well as an `sqlite3` database with the data already imported.
+Some data sets to play with in SQLite. See the [data](./data/) directory for data rouce files as well as an `sqlite3` database with the data already imported.
 
 Specific data sets include:
 
